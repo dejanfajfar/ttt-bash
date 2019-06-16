@@ -1,0 +1,23 @@
+{
+  "name": "ttt-bash",
+  "version": "1.0.0",
+  "description": "bash template for ttouch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejanfajfar/ttt-bash.git"
+  },
+  "keywords": [
+    "ttouch",
+    "bash"
+  ],
+  "author": "Dejan Fajfar <dejan@fajfar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejanfajfar/ttt-bash/issues"
+  },
+  "homepage": "https://github.com/dejanfajfar/ttt-bash#readme"
+}
