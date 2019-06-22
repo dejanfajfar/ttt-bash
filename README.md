@@ -6,7 +6,7 @@
 
 ![Logo](https://raw.githubusercontent.com/dejanfajfar/ttouch/master/misc/template_header_image.jpg)
 
-# @ttouch/bash
+# ttt-bash
 
 > Bash file template
 
@@ -15,7 +15,7 @@ Fills a new file with a simple _shebang_
 ## Installation
 
 ```bash
-npm install -g @ttouch/bash
+npm install -g ttt-bash
 ```
 
 ## Usage
