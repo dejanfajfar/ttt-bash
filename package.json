@@ -1,5 +1,5 @@
 {
-  "name": "@ttouch/bash",
+  "name": "ttt-bash",
   "version": "1.0.0",
   "description": "Bash file template for ttouch",
   "main": "index.js",
