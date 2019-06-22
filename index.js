@@ -1,5 +1,5 @@
-"use strict";
+"use strict"
 
-module.exports = options => {
-    return '#!/bin/sh';
-};
+const template = require('./src/template');
+
+module.exports = template.renderTemplate;
